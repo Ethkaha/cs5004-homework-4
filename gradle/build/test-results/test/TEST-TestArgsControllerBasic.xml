@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestArgsControllerBasic" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-04-06T23:05:18" hostname="MacBookPro" time="0.152">
+  <properties/>
+  <testcase name="testAllHostnameOutputsMultipleRecords()" classname="TestArgsControllerBasic" time="0.126"/>
+  <testcase name="testOutputFileAndDataFileArgumentsWork()" classname="TestArgsControllerBasic" time="0.014"/>
+  <testcase name="testNullArgsDoesNotThrow()" classname="TestArgsControllerBasic" time="0.006"/>
+  <testcase name="testHelpFlagPrintsHelp()" classname="TestArgsControllerBasic" time="0.003"/>
+  <system-out><![CDATA[www.github.com
+             IP: 140.82.112.3
+       Location: San Francisco, California, US, 94110
+    Coordinates: 37.7509, -122.4153
+
+www.northeastern.edu
+             IP: 23.194.127.178
+       Location: Englewood, Colorado, US, 80110
+    Coordinates: 39.6463, -105.0092
+
+www.google.com
+             IP: 142.250.69.228
+       Location: Plainview, New York, US, 11803
+    Coordinates: 40.7746, -73.4761
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

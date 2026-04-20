@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestFormatterAndWrapperBasic" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-04-06T23:05:19" hostname="MacBookPro" time="0.021">
+  <properties/>
+  <testcase name="testWriteRecordsAsXmlEmptyList()" classname="TestFormatterAndWrapperBasic" time="0.007"/>
+  <testcase name="testFormatsContainsValuesUnknownReturnsNull()" classname="TestFormatterAndWrapperBasic" time="0.0"/>
+  <testcase name="testFormatsContainsValuesValidInput()" classname="TestFormatterAndWrapperBasic" time="0.0"/>
+  <testcase name="testWriteRecordsAsPrettyContainsHostnameAndIp()" classname="TestFormatterAndWrapperBasic" time="0.0"/>
+  <testcase name="testWriteRecordsAsCsvIncludesHeader()" classname="TestFormatterAndWrapperBasic" time="0.007"/>
+  <testcase name="testWriteRecordsAsJsonContainsFields()" classname="TestFormatterAndWrapperBasic" time="0.001"/>
+  <testcase name="testDomainXmlWrapperGetterSetter()" classname="TestFormatterAndWrapperBasic" time="0.0"/>
+  <testcase name="testWriteRecordsAsXmlContainsRootAndFields()" classname="TestFormatterAndWrapperBasic" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

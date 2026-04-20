@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestJacksonSerialize" tests="6" skipped="2" failures="0" errors="0" timestamp="2026-04-06T23:05:19" hostname="MacBookPro" time="0.424">
+  <properties/>
+  <testcase name="testDeserializeGoogle()" classname="TestJacksonSerialize" time="0.227">
+    <skipped/>
+  </testcase>
+  <testcase name="testSerialize()" classname="TestJacksonSerialize" time="0.001"/>
+  <testcase name="testDeserializeGoogleWithXML()" classname="TestJacksonSerialize" time="0.164"/>
+  <testcase name="testDeserialize()" classname="TestJacksonSerialize" time="0.005"/>
+  <testcase name="testDeserializeMultipleEntries()" classname="TestJacksonSerialize" time="0.006"/>
+  <testcase name="testDeserializeGithubWithBean()" classname="TestJacksonSerialize" time="0.017">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[TestIPBlock[ip=142.250.72.78, city=Mountain View, region=California, country=US, postal=94043, latitude=37.4056, longitude=-122.0775]
+TestIPBlock[ip=0.0.0.0, city=unknown, region=madeup, country=fantasy, postal=000000, latitude=-100.0, longitude=25.0]
+[TestBean [hostname=github.com, city=San Francisco, country=US, ip=140.82.112.3, latitude=37.7509, longitude=-122.4153, postal=94110, region=California], TestBean [hostname=githubCOPY.com, city=San Francisco, country=US, ip=140.82.112.3, latitude=37.7509, longitude=-122.4153, postal=94110, region=California]]
+]]></system-out>
+  <system-err><![CDATA[Failed to connect to https://ipapi.co/142.250.72.78/json/
+Failed to connect to https://ipapi.co/140.82.112.3/json/
+]]></system-err>
+</testsuite>

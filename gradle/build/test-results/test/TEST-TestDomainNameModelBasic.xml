@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestDomainNameModelBasic" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-04-06T23:05:19" hostname="MacBookPro" time="0.018">
+  <properties/>
+  <testcase name="testGetRecordExistingHostname()" classname="TestDomainNameModelBasic" time="0.004"/>
+  <testcase name="testGetRecordsReturnsCopy()" classname="TestDomainNameModelBasic" time="0.003"/>
+  <testcase name="testGetRecordRejectsBlankHostname()" classname="TestDomainNameModelBasic" time="0.003"/>
+  <testcase name="testGetRecordRejectsNullHostname()" classname="TestDomainNameModelBasic" time="0.003"/>
+  <testcase name="testLoadsRecordsFromXml()" classname="TestDomainNameModelBasic" time="0.003"/>
+  <testcase name="testEmptyDatabaseReturnsEmptyList()" classname="TestDomainNameModelBasic" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
