@@ -1,7 +1,7 @@
-# Domain Information App Design Document
+# Payroll Generator Design Document
 
 
-This document is meant to help you demonstrate your design process. You should work on it before coding and then revisit it after you have a finished product. That way, you can compare the changes; design changes are normal as you work through a project. Contrary to popular belief, we are not perfect on our first attempt. We need to iterate on our designs to make them better. This document is a tool to help you do that.
+This document is meant to provide a tool for you to demonstrate the design process. You need to work on this before you code, and after have a finished product. That way you can compare the changes, and changes in design are normal as you work through a project. It is contrary to popular belief, but we are not perfect our first attempt. We need to iterate on our designs to make them better. This document is a tool to help you do that.
 
 If you are using mermaid markup to generate your class diagrams, you may edit this document in the sections below to insert your markup to generate each diagram. Otherwise, you may simply include the images for each diagram requested below in your zipped submission (be sure to name each diagram image clearly in this case!)
 
